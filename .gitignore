@@ -1,0 +1,6 @@
+build
+*/__pycache__
+
+perftest
+!perftest/*/*.pyx
+!perftest/*/*.py
